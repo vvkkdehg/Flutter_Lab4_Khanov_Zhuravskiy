@@ -15,7 +15,7 @@ void main() {
       home: Scaffold(
         appBar: AppBar(
           title: Text(
-            'Аниме-каталог 🎌',
+            'Кинокаталог 🎥',
             style: TextStyle(
               fontWeight: FontWeight.bold,
             ),

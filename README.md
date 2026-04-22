@@ -1,17 +1,26 @@
-# anime_catalog
+## Лабораторная работа №4. Flutter: списки, модели данных и карточки
 
-A new Flutter project.
+### Авторы
 
-## Getting Started
+**ФИО:** Ханов В.В. Журавский Е.А.
 
-This project is a starting point for a Flutter application.
+**Группа:** ИСП-231
 
-A few resources to get you started if this is your first Flutter project:
+**Дата:** 22.04.2026
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Что изучили?
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Научились хранить данные в виде модели
+2. Научились строить прокручиваемые списки через ListView.builder
+3. Научились создавать переиспользуемые карточки
+
+### Скриншот финального приложения
+
+![Скриншот](./img/screen.png)
+
+### Как запустить?
+
+1. Клонировать проект с GitHub
+2. Запустить его в VS Code
+3. Перейти в терминале через cd в папку проекта
+4. Запустить приложение через команду `flutter run -d chrome`
